@@ -1,0 +1,2 @@
+I am using the Open Weather API and submitting requests to a web server, also asynchronous framework aiogram.
+To start working with the Bot, run the file 'main_weather_tg_bot.py' and follow the link: http://t.me/MIke_Weather_Bot.
