@@ -43,12 +43,9 @@ def GetWeather(city, weather_token):
         print(ex)
         print('Проверьте название города')
 
-
-
 def main():
     city = input('Введите город: ')
     GetWeather(city, weather_token)
-
 
 if __name__ == '__main__':
     main()
