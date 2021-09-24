@@ -5,7 +5,8 @@
 в переменную tg_bot_token полученный во втором пункте токен.
 4)Запустите файл main_weather_tg_bot и найдите бота по адресу @MIke_Weather_Bot или Weather_Bot.
 
-Если при запуске возникли ошибки импорта aiogram, выполните следующие команды (работает в Ubuntu): 
+Если при запуске возникли ошибки импорта aiogram, то: 
+Для Ubuntu
 
 sudo apt update
 sudo apt install python3-pip
